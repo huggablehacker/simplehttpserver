@@ -10,3 +10,6 @@ Modify `simser.sh` argument's mode with `chmod a+x`
 Usage: `./simser.sh`
 
 A directory via HTTP often, you’ll access them locally, via localhost, will be creeated.  
+
+Based on the work:
+https://docs.python.org/2/library/simplehttpserver.html#module-SimpleHTTPServer
